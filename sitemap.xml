@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zo.subo.xyz/2018/11/03/redis-%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE%E5%93%A8%E5%85%B5%E6%A8%A1%E5%BC%8F/</loc>
-    
-    <lastmod>2019-08-19T13:33:19.529Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://zo.subo.xyz/2018/10/19/Python%E4%BC%98%E5%8C%96/</loc>
     
     <lastmod>2019-08-19T13:33:19.529Z</lastmod>
@@ -16,21 +9,7 @@
   </url>
   
   <url>
-    <loc>https://zo.subo.xyz/2018/11/23/websocket%E7%BF%BB%E8%AF%91/</loc>
-    
-    <lastmod>2019-08-19T13:33:19.529Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://zo.subo.xyz/2018/08/26/git/</loc>
-    
-    <lastmod>2019-08-19T13:33:19.529Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zo.subo.xyz/2019/08/19/hello-world/</loc>
     
     <lastmod>2019-08-19T13:33:19.529Z</lastmod>
     
@@ -58,6 +37,13 @@
   </url>
   
   <url>
+    <loc>https://zo.subo.xyz/2018/09/02/GO%E8%AF%AD%E8%A8%80heap%E5%89%96%E6%9E%90/</loc>
+    
+    <lastmod>2019-08-19T13:33:19.529Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zo.subo.xyz/2018/09/11/GO%E8%AF%AD%E8%A8%80list%E5%89%96%E6%9E%90/</loc>
     
     <lastmod>2019-08-19T13:33:19.529Z</lastmod>
@@ -65,7 +51,14 @@
   </url>
   
   <url>
-    <loc>https://zo.subo.xyz/2018/09/02/GO%E8%AF%AD%E8%A8%80heap%E5%89%96%E6%9E%90/</loc>
+    <loc>https://zo.subo.xyz/2018/11/03/redis-%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE%E5%93%A8%E5%85%B5%E6%A8%A1%E5%BC%8F/</loc>
+    
+    <lastmod>2019-08-19T13:33:19.529Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zo.subo.xyz/2018/11/23/websocket%E7%BF%BB%E8%AF%91/</loc>
     
     <lastmod>2019-08-19T13:33:19.529Z</lastmod>
     
